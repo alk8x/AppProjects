@@ -1,4 +1,5 @@
 # weatherapp
+Using an API with real, live data to create a simple weather app.
 
 A new Flutter project.
 
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Animations from: https://lottiefiles.com/
+Weather data from: https://openweathermap.org/current
+YouTube tutorial followed to start building: https://www.youtube.com/watch?v=yLtpMqvMgdY
